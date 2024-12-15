@@ -19,6 +19,6 @@ keywords:
 <!-- Uncomment the following line if you suspect this Community app documentation is out of date, inaccurate, or needs further improvement -->
 <!--{{< include file="/static/includes/apps/CommunityPleaseImprove.md" >}}-->
 
-[Paperless-ngx](https://paperless-ngx.readthedocs.io/en/latest/) <!-- is a [description of the application] -->
+[Paperless-ngx](https://docs.paperless-ngx.com) <!-- is a [description of the application] -->
 
 {{< include file="/static/includes/ProposeArticleChange.md" >}}
